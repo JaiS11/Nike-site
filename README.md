@@ -1,6 +1,8 @@
 # ⚙️ Tech Stack
 Tailwind CSS
+
 React.js
+
 Vite
 
 # 🔋 Features
